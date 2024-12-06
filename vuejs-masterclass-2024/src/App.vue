@@ -3,5 +3,7 @@
 </script>
 
 <template>
-  <h1>Welcome to Course!</h1>
+  <main>
+    <RouterView/>
+  </main>
 </template>
